@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Pavan Prajapati</h1>
-<h3 align="center">B.Tech CSE Student | Frontend Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+Frontend Developer • B.Tech CSE Student • DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;B.Tech+CSE+Student;CodeAlpha+Frontend+Development+Intern;DSA+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;CodeAlpha+Frontend+Development+Intern;B.Tech+CSE+Student;DSA+Learner;Always+Learning+New+Things" alt="Typing Animation"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech Computer Science & Engineering Student
 - 💼 Frontend Development Intern at **CodeAlpha**
 - 🌱 Currently learning **DSA, C++, JavaScript & React**
-- 🚀 Passionate about Web Development
+- 🚀 Passionate about Frontend Development and Problem Solving
 - 📫 Email: **pavanprajapati7586@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pavan-prajapati-838614380/" target="_blank">
@@ -28,7 +31,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/pavanprajapati123">
+<a href="https://github.com/pavanprajapati123" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
@@ -39,7 +42,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,java,react,mysql,git,github,vscode" />
 
 </p>
 
@@ -49,9 +52,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pavanprajapati123&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pavanprajapati123&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanprajapati123&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanprajapati123&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -61,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=pavanprajapati123&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=pavanprajapati123&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -74,32 +77,32 @@
 - CSS
 - JavaScript
 
-### 🌐 Portfolio Website
-- Responsive Portfolio
+### 🌐 Personal Portfolio Website
+- Responsive Portfolio Website
 - HTML
 - CSS
 - JavaScript
 
-Repository:
+🔗 Repository:
 https://github.com/pavanprajapati123/Pavan-portfolio
 
 ---
 
 ## 🎯 Current Focus
 
-- 📚 Solving DSA Problems
+- 📚 Data Structures & Algorithms
 - 🌐 Frontend Development
-- ⚛️ Learning React
+- ⚛️ React Development
 - 🚀 Building Real World Projects
 
 ---
 
-## 💬 Quote
+## 💡 Quote
 
-> "Consistency beats talent when talent doesn't stay consistent."
+> **"Consistency beats talent when talent doesn't stay consistent."**
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ Thank you for visiting my profile ⭐
 </p>
