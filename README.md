@@ -59,6 +59,13 @@
 <img src="https://streak-stats.demolab.com?user=pavanprajapati123&theme=tokyonight&hide_border=true"/>
 
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavanprajapati123&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
