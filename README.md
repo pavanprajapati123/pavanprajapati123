@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavan Prajapati</h1>
-
-<h3 align="center">
-Frontend Developer • B.Tech CSE Student • DSA Enthusiast
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;CodeAlpha+Frontend+Development+Intern;B.Tech+CSE+Student;DSA+Learner;Always+Learning+New+Things" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Pavan+Prajapati;Frontend+Developer;CodeAlpha+Frontend+Development+Intern;B.Tech+CSE+Student;DSA+Enthusiast;Always+Learning+New+Things" alt="Typing Animation"/>
 </p>
 
 ---
