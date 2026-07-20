@@ -105,3 +105,6 @@ https://github.com/pavanprajapati123/Pavan-portfolio
 <p align="center">
 ⭐ Thank you for visiting my profile ⭐
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanprajapati123&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
